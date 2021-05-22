@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "..\\JS"
+		},
+		{
+			"path": "..\\images"
+		},
+		{
+			"path": "..\\.idea"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\webfonts"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "assets",
+		"liveServer.settings.port": 5501
+	}
+}
